@@ -3,6 +3,7 @@
   "outputDirectory": "unpackage/dist/build/h5",
   "cleanUrls": true,
   "trailingSlash": false,
+  "installCommand": "npm install",
   "headers": [
     {
       "source": "/(.*)",
